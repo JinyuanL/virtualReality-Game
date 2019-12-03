@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 456d0fefac8b6d64bbfdc71cb96003f4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: Circle
+    100004: Circle_001
+    100006: Circle_002
+    100008: Circle_003
+    100010: Circle_004
+    100012: Cube
+    100014: Empty
+    100016: Icosphere
+    100018: Icosphere_001
+    100020: phare
+    100022: Plane
+    100024: //RootNode
+    400000: BezierCircle
+    400002: Circle
+    400004: Circle_001
+    400006: Circle_002
+    400008: Circle_003
+    400010: Circle_004
+    400012: Cube
+    400014: Empty
+    400016: Icosphere
+    400018: Icosphere_001
+    400020: phare
+    400022: Plane
+    400024: //RootNode
+    2100000: unnamed
+    2100002: Material_010
+    2100004: Material
+    2100006: Material_005
+    2100008: Material_008
+    2100010: Material_007
+    2100012: Material_006
+    2100014: chemin_
+    2100016: Material_009
+    2100018: tronc
+    2100020: feuillage
+    2100022: peinture_blanche
+    2100024: toit
+    2100026: peinture_bleu
+    2100028: vitre
+    2100030: lanterne
+    2100032: Material_004
+    2100034: Material_001
+    2100036: Material_002
+    2100038: Material_003
+    2300000: BezierCircle
+    2300002: Circle
+    2300004: Circle_001
+    2300006: Circle_002
+    2300008: Circle_003
+    2300010: Circle_004
+    2300012: Cube
+    2300014: Icosphere
+    2300016: Icosphere_001
+    2300018: phare
+    2300020: Plane
+    3300000: BezierCircle
+    3300002: Circle
+    3300004: Circle_001
+    3300006: Circle_002
+    3300008: Circle_003
+    3300010: Circle_004
+    3300012: Cube
+    3300014: Icosphere
+    3300016: Icosphere_001
+    3300018: phare
+    3300020: Plane
+    4300000: Cube
+    4300002: Icosphere_001
+    4300004: Circle
+    4300006: Plane
+    4300008: Circle_004
+    4300010: Circle_003
+    4300012: Circle_002
+    4300014: Circle_001
+    4300016: phare
+    4300018: BezierCircle
+    4300020: Icosphere
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
